@@ -2,13 +2,14 @@ import React from 'react';
 import * as Yup from 'yup';
 import {useFormik} from "formik";
 import {createBlogRequest} from "../../store/blog/blog-thunk.js";
-import {useDispatch} from "react-redux";
+import {useDispatch, useSelector} from "react-redux";
 import {toast} from "sonner";
 
 
 const AddBlogForm = () => {
 
     const dispatch = useDispatch();
+    const {isLoading} = useSelector((state) => state.blogReducer);
 
     const validationSchema = Yup.object({
         title: Yup.string().required('Title is required'),
@@ -130,10 +131,11 @@ const AddBlogForm = () => {
                     {/* Submit Button */}
                     <div className="mt-6 text-center">
                         <button
+                            disabled={isLoading}
                             type="submit"
                             className="px-6 py-2 bg-red-500 w-full text-white rounded-md hover:bg-red-600 focus:outline-none focus:ring-2 focus:ring-red-700"
                         >
-                            Add
+                            { isLoading ? "Loading..." : "Add"}
                         </button>
                     </div>
                 </form>

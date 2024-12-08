@@ -108,7 +108,8 @@ const AddTeamForm = () => {
 
                 {/* Submit Button */}
                 <div className="mt-6 text-center">
-                    <button disabled={isLoading}
+                    <button
+                        disabled={isLoading}
                         type="submit"
                         className="px-6 py-2 bg-red-500 w-full text-white rounded-md hover:bg-red-600 focus:outline-none focus:ring-2 focus:ring-red-700"
                     >

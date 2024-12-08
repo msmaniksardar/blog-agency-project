@@ -5,75 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c0741a2-7e53-48e5-95aa-b8264c686c08" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/client/vercel.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/vercel.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/assets/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/assets/css/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/about/about-component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/about/about-component.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/about/team-component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/about/team-component.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/components/blog/add-blog-form.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/blog/add-blog-form.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/blog/blog-card-component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/blog/blog-card-component.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/blog/blog-component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/blog/blog-component.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/blog/show-blog-component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/blog/show-blog-component.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/blog/update-blog-component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/blog/update-blog-component.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/contact/form-component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/contact/form-component.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/dashboard/dash-board-component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/dashboard/dash-board-component.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/dashboard/dash-sidebar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/dashboard/dash-sidebar.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/home/home-blog-component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/home/home-blog-component.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/home/slider-component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/home/slider-component.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/layout/footer-component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/layout/footer-component.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/layout/header-component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/layout/header-component.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/loading/loading-component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/loading/loading-component.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/login/login-form-component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/login/login-form-component.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/register/register-form-component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/register/register-form-component.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/service/add-service-form.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/service/add-service-form.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/service/service-card-component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/service/service-card-component.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/service/service-component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/service/service-component.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/service/show-service-component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/service/show-service-component.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/service/update-service-component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/service/update-service-component.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/components/team/add-team-form.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/team/add-team-form.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/team/show-team-component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/team/show-team-component.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/team/update-team-component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/team/update-team-component.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/controllers/auth-controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/controllers/auth-controller.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/layout/dashboard/dash-layout.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/layout/dashboard/dash-layout.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/layout/main/main-layout.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/layout/main/main-layout.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/main.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/main.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/about-page.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/pages/about-page.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/blog-page.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/pages/blog-page.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/contact-page.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/pages/contact-page.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/dashboard-page.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/pages/dashboard-page.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/dashboard/blog/add-blog-page.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/pages/dashboard/blog/add-blog-page.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/dashboard/blog/show-blog-page.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/pages/dashboard/blog/show-blog-page.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/dashboard/blog/update-blog-page.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/pages/dashboard/blog/update-blog-page.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/dashboard/service/add-service-page.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/pages/dashboard/service/add-service-page.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/dashboard/service/show-service-page.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/pages/dashboard/service/show-service-page.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/dashboard/service/update-service-page.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/pages/dashboard/service/update-service-page.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/dashboard/team/add-team-page.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/pages/dashboard/team/add-team-page.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/dashboard/team/show-team-page.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/pages/dashboard/team/show-team-page.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/dashboard/team/update-team-page.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/pages/dashboard/team/update-team-page.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/home-page.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/pages/home-page.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/login-page.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/pages/login-page.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/not-found-page.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/pages/not-found-page.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/registration-page.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/pages/registration-page.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/services-page.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/pages/services-page.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/routes/api-handler.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/routes/api-handler.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/store.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/store.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/store/blog/blog-slice.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/store/blog/blog-slice.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/store/blog/blog-thunk.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/store/blog/blog-thunk.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/store/service/service-slice.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/store/service/service-slice.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/store/service/service-thunk.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/store/service/service-thunk.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/store/team/team-slice.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/store/team/team-slice.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/store/team/team-thunk.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/store/team/team-thunk.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/store/user/user-silce.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/store/user/user-silce.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/store/user/user-thunk.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/store/user/user-thunk.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/utils/network-utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/utils/network-utils.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/tailwind.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/tailwind.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/vite.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/vite.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/server/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/server/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/server/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/server/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/src/config/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/config/config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,6 +22,7 @@
       <list>
         <option value="JSX File" />
         <option value="JavaScript File" />
+        <option value="tsconfig.json" />
       </list>
     </option>
   </component>
@@ -102,27 +40,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/Programing/Web Application Development/ostad project/blog-agency-project/client/src/assets/images",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.standard": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.standard": "",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2024.2.4\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Programing/Web Application Development/ostad project/blog-agency-project/client/src/assets/images&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.standard&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.standard&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2024.2.4\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "PLAIN_TEXT"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;PLAIN_TEXT&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Programing\Web Application Development\ostad project\blog-agency-project\client\src\assets\images" />
@@ -167,7 +105,9 @@
       <workItem from="1733483862252" duration="22466000" />
       <workItem from="1733561510908" duration="21518000" />
       <workItem from="1733588221998" duration="12460000" />
-      <workItem from="1733636145602" duration="1893000" />
+      <workItem from="1733636145602" duration="2886000" />
+      <workItem from="1733639994341" duration="2000" />
+      <workItem from="1733643496749" duration="375000" />
     </task>
     <servers />
   </component>
