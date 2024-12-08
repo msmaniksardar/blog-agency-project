@@ -4,6 +4,7 @@ import SliderComponent from "../components/home/slider-component.jsx";
 import TeamComponent from "../components/about/team-component.jsx";
 import HomeBlogComponent from "../components/home/home-blog-component.jsx";
 
+
 const HomePage = () => {
     return (
         <MainLayout>

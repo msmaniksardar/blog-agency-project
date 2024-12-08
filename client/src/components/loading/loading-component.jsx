@@ -1,12 +1,9 @@
 import React from 'react';
-import { SunspotLoader } from "react-awesome-loaders";
+
 const LoadingComponent = () => {
     return (
-        <div className={"flex items-center justify-center w-screen h-screen"}>
-            <SunspotLoader
-                gradientColors={["#6366F1", "#E0E7FF"]}
-                shadowColor={"#3730A3"}
-            />
+        <div className="flex flex-row items-center justify-center min-h-screen w-[80vw]">
+            <div className="w-12 h-12 border-4 border-blue-500 border-dashed rounded-full animate-spin"></div>
         </div>
     );
 };

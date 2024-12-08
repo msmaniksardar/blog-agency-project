@@ -1,12 +1,12 @@
 import dotenv from 'dotenv'
 dotenv.config();
 
-
-export const PORT = process.env.PORT || 3000;
-export const SERVER_URL = process.env.SERVER_URL || 'http://localhost:3000';
-export const JSON_TOKEN_KEY = process.env.JSON_TOKEN_KEY || '';
+export const PORT = 8000;
+export const SERVER_URL = "mongodb+srv://anonymousmanik:mongodbpassword@mern-6.3kmhf.mongodb.net/blog-agency-project"
+export const JSON_TOKEN_KEY = "website-agency-project-json-token";
 
 // cloudinary config
-export const CLOUD_NAME = process.env.CLOUD_NAME || '';
-export const API_KEY = process.env.API_KEY || '';
-export const API_SECRET_KEY = process.env.API_SECRET_KEY || '';
+export const CLOUD_NAME ="dpnj21puf"
+export const API_KEY = "297248662347871"
+export const API_SECRET_KEY = "JL_bWSW6_d9Wk4vZNcgAcmQ2dpg"
+

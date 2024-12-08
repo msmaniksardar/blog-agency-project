@@ -19,7 +19,7 @@ const HomeBlogComponent = () => {
 
 
     return (
-        commonBlogs.data === null ?<LoadingComponent/> : <div>
+        commonBlogs.data === null ? <LoadingComponent/> : <div>
             <div className="bg-white shadow py-16 text-center">
                 <h1 className="text-4xl font-bold mb-4">Our Blog</h1>
                 <p className="text-lg max-w-2xl mx-auto">
