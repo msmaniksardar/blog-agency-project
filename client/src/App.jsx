@@ -1,9 +1,10 @@
 import React from 'react';
+import ApiHandler from "./routes/api-handler.jsx";
 
 const App = () => {
     return (
         <div>
-            <h1 className="text-orange-500">Home Page</h1>
+           <ApiHandler/>
         </div>
     );
 };

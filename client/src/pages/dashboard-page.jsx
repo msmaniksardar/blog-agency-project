@@ -1,11 +1,12 @@
 import React from 'react';
-import DashBoardComponent from "../components/dashboard/dash-board-component.js";
+import DashBoardComponent from "../components/dashboard/dash-board-component.jsx";
+import DashLayout from "../layout/dashboard/dash-layout.jsx";
 
 const DashboardPage = () => {
     return (
-        <div>
-            <DashBoardComponent/>
-        </div>
+        <DashLayout>
+            <h1>Home Page</h1>
+        </DashLayout>
     );
 };
 

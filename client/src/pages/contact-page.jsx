@@ -1,10 +1,12 @@
 import React from 'react';
+import MainLayout from "../layout/main/main-layout.jsx";
+import FormComponent from "../components/contact/form-component.jsx";
 
 const ContactPage = () => {
     return (
-        <div>
-            <h1>Contact Page</h1>
-        </div>
+        <MainLayout>
+          <FormComponent/>
+        </MainLayout>
     );
 };
 

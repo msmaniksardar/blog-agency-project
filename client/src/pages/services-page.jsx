@@ -1,10 +1,12 @@
 import React from 'react';
+import MainLayout from "../layout/main/main-layout.jsx";
+import ServiceComponent from "../components/service/service-component.jsx";
 
 const ServicesPage = () => {
     return (
-        <div>
-            <h1>Services page</h1>
-        </div>
+        <MainLayout>
+          <ServiceComponent/>
+        </MainLayout>
     );
 };
 

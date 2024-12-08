@@ -1,10 +1,12 @@
 import React from 'react';
+import MainLayout from "../layout/main/main-layout.jsx";
+import AboutComponent from "../components/about/about-component.jsx";
 
 const AboutPage = () => {
     return (
-        <div>
-            <h1>About page</h1>
-        </div>
+        <MainLayout>
+           <AboutComponent/>
+        </MainLayout>
     );
 };
 
