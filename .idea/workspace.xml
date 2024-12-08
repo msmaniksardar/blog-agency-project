@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c0741a2-7e53-48e5-95aa-b8264c686c08" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/client/vercel.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/vercel.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/blog/add-blog-form.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/blog/add-blog-form.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/team/add-team-form.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/team/add-team-form.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/server/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/utils/network-utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/utils/network-utils.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +103,7 @@
       <workItem from="1733588221998" duration="12460000" />
       <workItem from="1733636145602" duration="2886000" />
       <workItem from="1733639994341" duration="2000" />
-      <workItem from="1733643496749" duration="375000" />
+      <workItem from="1733643496749" duration="2200000" />
     </task>
     <servers />
   </component>

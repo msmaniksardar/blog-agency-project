@@ -1,2 +1,2 @@
 
-export  const BASE_URL = "http://localhost:8000/api/v1";
+export  const BASE_URL = "https://blog-agency-project-five.vercel.app/api/v1";
